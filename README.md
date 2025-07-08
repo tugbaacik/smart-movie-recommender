@@ -93,7 +93,7 @@ smart-movie-recommender/
 │   ├── ratings_analysis.py        # Collaborative filtering
 │   └── hybrid_recommender.py      # Combines both strategies
 │
-├── interface.py                   # Streamlit-based frontend
+├── app.py                   # Streamlit-based frontend
 ├── .env                           # API keys 
 ├── requirements.txt
 └── README.md
