@@ -1,0 +1,14 @@
+# Sanal ortam klasörü
+venv/
+
+# Ortam değişkenleri
+.env
+
+
+# Derlenmiş dosyalar
+__pycache__/
+*.pyc
+
+# IDE ve sistem dosyaları
+*.log
+*.DS_Store
