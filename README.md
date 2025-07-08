@@ -75,7 +75,7 @@ OMDB_API_KEY=your_omdb_api_key
 ### 5. Launch the App
 
 ```bash
-streamlit run interface.py
+streamlit run app.py
 ```
 
 ---
