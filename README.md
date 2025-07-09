@@ -46,7 +46,7 @@ This application allows users to explore personalized movie recommendations, vie
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/tugbaacik/smart-movie-recommender.git
+git clone https://github.com/tugbaacik/smart-recommender.git
 cd smart-movie-recommender
 ```
 
